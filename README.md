@@ -1,1 +1,0 @@
-# docker-jenkins-integration-sample
